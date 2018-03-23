@@ -37,6 +37,7 @@ both `antelope` and `antelopes`.)
 > Designer](http://madebyevan.com/fsm/).
 
 * Draw a state machine that corresponds to the following regex:
+(see image in folder)
 
       ab*c+d?[ef]
 
@@ -46,6 +47,7 @@ both `antelope` and `antelopes`.)
 * A lion can be sleeping, eating, hunting, or preening. Draw a state
   machine diagram for the lion and label the transition events that
   cause state transitions.
+(see image in folder)
 
 * The VT-100 terminal (console) outputs text to the screen as it
   receives it over the wire. One exception is that when it receives an

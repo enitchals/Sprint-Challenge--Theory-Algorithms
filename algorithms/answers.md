@@ -33,11 +33,7 @@ O(n)
 
 ## a - Given an array `a` of `n` numbers, design a linear running algorithm to find the maximum value of `a[j] - a[i]`, where `j>= i`.
 
-function maxValueDiff(arr) {
-    for (let i = 0; i<arr.length; i++) {
-
-    }
-}
+My first stab at this (in repl.it) involves building arrays, but I'm having trouble nailing it without introducing a loop inside a loop... continuing to hack away.
 
 ## b - Q: Suppose you have an n-story building and plenty of eggs. Suppose an egg is broken if it is thrown off floor f or higher, and unbroken otherwise. Devise a strategy to determine the value of f to minimize the number of dropped eggs.
 
